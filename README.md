@@ -1,2 +1,3 @@
-# itfbgroup_test
+mvn clean test
+allure serve
  
